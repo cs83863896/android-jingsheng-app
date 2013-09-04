@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">景胜建材</string>
+	<string name="title_item_detail1">公司介绍</string>
+	<string name="title_item_detail2">企业证书</string>
+	<string name="title_item_detail3">产品分类</string>
+	<string name="title_item_detail4">工程案例</string>
+	<string name="title_item_detail5">联系我们</string>
+	<string name="item_detail5_content_title">苏州景盛新型建材有限公司</string>
+	<string name="item_detail5_content_phone">电话：0512 65906727 65908759</string>
+	<string name="item_detail5_content_fax">传真：0512 65902895</string>
+	<string name="item_detail5_content_email">E-mail:szjsxxjc@163.com</string>
+	<string name="item_detail5_content_address">地址：苏州市相城区渭塘塘角桥西埦</string>
+	<string name="item_detail1_title">苏州景盛新型建材有限公司是一家集各种混凝土铺地砖、路沿石、空心砌砖等墙体材料生产、销售及新型建材的研究、开发、应用为一体的股份制企业。
+	 </string>
+	 <string name="item_detail1_content1">
+	    目前公司规模位于苏、锡、常地区之前列。 公司位于苏州市相城经济开发区，占地40余亩。公司于2004年及2007年分别引进了两条德国进口混凝土砌块全自动流水线：德国海斯（HESS）、德国宝马克（BAOMARG）。年产70万平方高档次的路面铺地砖或砌块及高质量混凝土多孔砖20万立方。
+</string>
+<string name="item_detail1_content2">
+    公司与同行业国内知名企业紧密合作，产品的生产制造工艺充分吸收国内外先进技术、并考虑中国的行情，将国外先进的制造工艺技术和严格的管理制度相结合，以保证向客户提供质量优良的产品。
+
+    景盛路面砖耐磨与耐久性强，透气、透水、防滑，色彩丰富，任意组合，铺设方便，产品适用于广场、码头、城市道路、园林景观及住宅小区等；混凝土砌块品种、规格齐全，强度稳定，隔音和保湿性能好；还有干垒挡土砖，护坡砖等性能都居同类产品的前列。（形状、颜色、厚度均可根据要求定制）
+
+    景盛公司拥有一大批专业技术人员和优良的销售团队，
+    </string>
+    <string name="item_detail1_content3">
+    其中具大学本科学历技术人员2人，大专以上技术人员5人，中级技术人员3人，经过不懈努力，景盛公司已经建立起具有景盛特色的科研、生产、销售、服务体系。公司致力于发展绿色、环保生态的新型建筑材料，为节约能源、减少污染，创造一个更美、更好、更洁净的环境而贡献。
+	</string>
+	<string name="titleLogo">titleLogo</string>
+</resources>
